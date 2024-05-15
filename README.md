@@ -6,8 +6,8 @@
 
 ## Screenshots
 
-![Project Screenshot](Screenshot 2024-05-10 232233.png)
-![Project Screenshot](Screenshot 2024-05-10 232145.png)
+![Project Screenshot](Screenshot-2.png)
+![Project Screenshot](Screenshot-1.png)
 
 ## Installation
 
