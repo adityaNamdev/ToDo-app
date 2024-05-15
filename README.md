@@ -6,7 +6,7 @@
 
 ## Screenshots
 
-![Project Screenshot](Screenshot-2.png)
+![Project Screenshot](ScreenShot-2.png)
 ![Project Screenshot](Screenshot-1.png)
 
 ## Installation
